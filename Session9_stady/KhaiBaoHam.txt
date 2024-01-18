@@ -1,0 +1,10 @@
+//Khai báo Fnction:
+//1. Function declaration
+
+//2. Function expression
+
+//3. Arow Function
+
+//4. IIEF Intermediate invoke ẽpressing funciotn
+
+//First class function
