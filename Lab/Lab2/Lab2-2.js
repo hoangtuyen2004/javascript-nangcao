@@ -12,7 +12,8 @@ const convertToCamelCase = (event) => {
 };
 
 const results = events.map(convertToCamelCase);
-
 results.forEach((result) => {
-    console.log(`${result} ✅`);
+    
+    console.log(`${result} ${"✅".repeat(result.length)}`);
 });
+// ✅
